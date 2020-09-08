@@ -59,10 +59,6 @@
 
 <img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
 
-</br>
-</br>
-</br>
-
 <img align="left" alt="Vhdl" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQccQP9AqELhPHEO70ltyO1vvfP3F2MVCsnjQ&usqp=CAU" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
