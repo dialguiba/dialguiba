@@ -71,7 +71,9 @@
 
 <img align="left" alt="Autocad" width="26px" src="https://www.iconarchive.com/download/i98188/dakirby309/simply-styled/Autodesk-Autocad.ico" />
 
-<img align="left" alt="Autocad" width="26px" src="https://gamaxlabsol.com/wp-content/uploads/2019/07/logo_comsol_multiphysics_cube-e1564999992395.png" />
+<img align="left" alt="Comsol" width="26px" src="https://gamaxlabsol.com/wp-content/uploads/2019/07/logo_comsol_multiphysics_cube-e1564999992395.png" />
+
+<img align="left" alt="Docker" width="26px" src="https://www.flaticon.es/svg/static/icons/svg/919/919853.svg" />
 
 </br>
 </br>
