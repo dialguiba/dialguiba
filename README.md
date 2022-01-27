@@ -1,8 +1,8 @@
 # 💫About Me :
- 🌱 I’m currently working on improving my knowledge in algorithms, design patterns and doing some personal projects
-🔭 I'm looking to collaborate on any project with new technologies
-💬 Ask me about everything. Even if i don't know the answer i would be happy to help you searching and researching. In that way i would learn something new or improving my knowledges in that topic too :)
-📬 How to reach me: dialguiba1994@gmail.com
+ 🌱 I’m currently working on improving my knowledge in algorithms, design patterns and doing some personal projects<br />
+🔭 I'm looking to collaborate on any project with new technologies<br />
+💬 Ask me about everything. Even if i don't know the answer i would be happy to help you searching and researching. In that way i would learn something new or improving my knowledges in that topic too :)<br />
+📬 How to reach me: dialguiba1994@gmail.com<br />
 
 
 ## 🌐Socials
