@@ -1,3 +1,5 @@
+![Header](./dialguiba-header.png)
+
 # 💫About Me :
  🌱 I’m currently working on improving my knowledge in algorithms, design patterns and doing some personal projects<br />
 🔭 I'm looking to collaborate on any project with new technologies<br />
