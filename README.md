@@ -25,9 +25,6 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [Breves respuestas a las grandes preguntas (Spanish Edition)](https://www.goodreads.com/review/show/3234792609?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.29)
 - [Elevation](https://www.goodreads.com/review/show/3222300550?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.66)
-- [Usted S.A. - Empleabilidad y marketing personal](https://www.goodreads.com/review/show/3216936577?utm_medium=api&utm_source=rss) by Inés Temple (⭐️3.75)
-- [Rich Dad, Poor Dad](https://www.goodreads.com/review/show/3216937375?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.11)
-- [El arte de la guerra para ejecutivos y directivos](https://www.goodreads.com/review/show/2498556088?utm_medium=api&utm_source=rss) by Jack Lawson (⭐️3.73)
 - [Baila, baila, baila](https://www.goodreads.com/review/show/2498556739?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.86)
 - [Tokio Blues: Norwegian Wood](https://www.goodreads.com/review/show/2498556404?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.96)
 <!-- GOODREADS-READ-LIST:END -->
