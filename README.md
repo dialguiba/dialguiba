@@ -26,7 +26,7 @@
 - [Breves respuestas a las grandes preguntas (Spanish Edition)](https://www.goodreads.com/review/show/3234792609?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.3)
 - [Elevation](https://www.goodreads.com/review/show/3222300550?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.66)
 - [Baila, baila, baila](https://www.goodreads.com/review/show/2498556739?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.86)
-- [Tokio Blues: Norwegian Wood](https://www.goodreads.com/review/show/2498556404?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.96)
+- [Tokio Blues: Norwegian Wood](https://www.goodreads.com/review/show/2498556404?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.95)
 <!-- GOODREADS-READ-LIST:END -->
 
 ## Books I want to read
