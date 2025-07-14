@@ -32,9 +32,9 @@
 ## Books I want to read
 <!-- GOODREADS-TO-READ:START -->
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7411296886?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7411296729?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.29)
-- [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/review/show/4180701246?utm_medium=api&utm_source=rss) by Roberto Vitillo (⭐️4.35)
-- [Web Security for Developers](https://www.goodreads.com/review/show/4180700411?utm_medium=api&utm_source=rss) by Malcolm McDonald (⭐️3.99)
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7411296729?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.28)
+- [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/review/show/4180701246?utm_medium=api&utm_source=rss) by Roberto Vitillo (⭐️4.36)
+- [Web Security for Developers](https://www.goodreads.com/review/show/4180700411?utm_medium=api&utm_source=rss) by Malcolm McDonald (⭐️4)
 - [Software Telemetry](https://www.goodreads.com/review/show/4180700148?utm_medium=api&utm_source=rss) by Jamie Riedesel (⭐️3.56)
 - [Se suponía que esto era el futuro](https://www.goodreads.com/review/show/4173247518?utm_medium=api&utm_source=rss) by Álvaro Ibáñez (Alvy) (⭐️3.7)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4172917261?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.27)
