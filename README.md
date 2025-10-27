@@ -18,7 +18,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Cracking the Coding Interview: 189 Programming Questions & Solutions](https://www.goodreads.com/review/show/4172916055?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.24)
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/review/show/4172383903?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.4)
-- [Micro Frontends in Action](https://www.goodreads.com/review/show/4128785975?utm_medium=api&utm_source=rss) by Michael Geers (⭐️4.4)
+- [Micro Frontends in Action](https://www.goodreads.com/review/show/4128785975?utm_medium=api&utm_source=rss) by Michael Geers (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 ## Books I read
