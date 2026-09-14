@@ -40,7 +40,7 @@
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4172917261?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.27)
 - [Practical Vim: Edit Text at the Speed of Thought](https://www.goodreads.com/review/show/4172915160?utm_medium=api&utm_source=rss) by Drew Neil (⭐️4.48)
 - [High Performance JavaScript (Build Faster Web Application Interfaces)](https://www.goodreads.com/review/show/4172912587?utm_medium=api&utm_source=rss) by Nicholas C. Zakas (⭐️4.1)
-- [Category Theory for Programmers](https://www.goodreads.com/review/show/4172912309?utm_medium=api&utm_source=rss) by Bartosz Milewski (⭐️4.19)
+- [Category Theory for Programmers](https://www.goodreads.com/review/show/4172912309?utm_medium=api&utm_source=rss) by Bartosz Milewski (⭐️4.18)
 <!-- GOODREADS-TO-READ:END -->
 
 # 📊GitHub Stats :
